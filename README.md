@@ -8,7 +8,7 @@
    Simplify the Spectrum, Illuminate the Essentials – Glean AI, Where Complexity Meets Clarity in Clear, Concise Summaries
     <br/>
     <br/>
-    <a href=" https://gleanai.vercel.app/"><strong>View Live Demo »</strong></a>
+    <a href="https://gleanai.vercel.app/"><strong>View Live Demo »</strong></a>
     <br/>
   </p>
 </p>
